@@ -1,0 +1,12 @@
+body, h2, h4, img, div, section{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body
+{
+    color: #333;
+    background-color: #f0f0f0;
+    
+}
