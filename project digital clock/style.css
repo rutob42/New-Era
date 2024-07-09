@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: #282c34;
+    color: white;
+    height: 100vh;
+}
+.clock-container{
+    text-align: center;
+    font-size: 50px;
+    border-radius: 5px;
+    padding: 20px;
+}
